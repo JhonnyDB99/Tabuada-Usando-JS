@@ -1,5 +1,5 @@
 const numero = prompt(
-  "óla eu sou o RObo da Tabuada!\n" + "Informe o numero que vc deseha calcular:"
+  "óla eu sou o robo da Tabuada!\n" + "Informe o numero que voce deseja calcular:"
 );
 
 let resultado = "";
